@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "922369396798",
+    "firebase_url": "https://guiadacidade-1f80d.firebaseio.com",
+    "project_id": "guiadacidade-1f80d",
+    "storage_bucket": "guiadacidade-1f80d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922369396798:android:8e5a984f14eb93b4",
+        "android_client_info": {
+          "package_name": "dev.brunoqualhato.guiadacidade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922369396798-0uhob10gjejsia3qkfr9c2ue05c995fd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.brunoqualhato.guiadacidade",
+            "certificate_hash": "37c8ffc59139044d8d1feb5eabb9f617914d4ad6"
+          }
+        },
+        {
+          "client_id": "922369396798-od4iqonvrhurmfnc423grdqpcjm7j4fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcmx32O0sOggAMssN3FOjZtRTLl6FAFUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922369396798-od4iqonvrhurmfnc423grdqpcjm7j4fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

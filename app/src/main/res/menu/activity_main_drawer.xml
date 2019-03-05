@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="Categorias">
+        <menu>
+            <item
+                android:id="@+id/nav_restaurantes"
+                android:icon="@drawable/ic_restaurant_black_24dp"
+                android:title="Restaurantes" />
+            <item
+                android:id="@+id/nav_enterterimento"
+                android:icon="@drawable/ic_doacoes_satisfied_black_24dp"
+                android:title="Entretenimento" />
+            <item
+                android:id="@+id/nav_hotel"
+                android:icon="@drawable/ic_local_hotel_black_24dp"
+                android:title="Hotel de Hospedagem" />
+            <item
+                android:id="@+id/nav_compras"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                android:title="Compras" />
+            <item
+                android:id="@+id/nav_frete"
+                android:icon="@drawable/ic_directions_car_black_24dp"
+                android:title="Frete" />
+            <item
+                android:id="@+id/nav_taxi"
+                android:icon="@drawable/ic_local_taxi_black_24dp"
+                android:title="Taxi" />
+            <item
+                android:id="@+id/nav_vendas"
+                android:icon="@drawable/ic_attach_money_black_24dp"
+                android:title="Vendas" />
+            <item
+                android:id="@+id/nav_alimentos"
+                android:icon="@drawable/ic_restaurant_menu_black_24dp"
+                android:title="Alimentos" />
+            <item
+                android:id="@+id/nav_doacoes"
+                android:icon="@drawable/ic_doacoes_satisfied_black_24dp"
+                android:title="Doações" />
+            <item
+                android:id="@+id/nav_educacao"
+                android:icon="@drawable/ic_school_black_24dp"
+                android:title="Educação" />
+
+            <item
+                android:id="@+id/nav_pet_shop"
+                android:icon="@drawable/ic_petshopping_basket_black_24dp"
+                android:title="PetShop" />
+
+
+            <item
+                android:id="@+id/nav_pet_posto"
+                android:icon="@drawable/ic_local_gas_station_black_24dp"
+                android:title="Postos de combustivel" />
+
+
+
+        </menu>
+    </item>
+
+
+    <item android:title="Quer anunciar?">
+
+        <menu>
+            <item
+                android:id="@+id/nav_contato"
+                android:icon="@drawable/ic_contact_mail_black_24dp"
+                android:title="Anuncie Gratis" />
+            <item
+                android:id="@+id/nav_config"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Configurações" />
+
+        </menu>
+    </item>
+
+</menu>
