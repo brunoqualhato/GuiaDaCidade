@@ -16,6 +16,6 @@
 
 
     <!--chaves-->
-    <string name="login_id_google">922369396798-od4iqonvrhurmfnc423grdqpcjm7j4fr.apps.googleusercontent.com</string>
-    <string name="googleMapsAPI">AIzaSyAdC9Wdgtzr_Hz5EVoAQ7O85tRs44BLrpc</string>
+    <string name="login_id_google">API KEY</string>
+    <string name="googleMapsAPI">API KEY</string>
 </resources>
